@@ -5,13 +5,13 @@
 
 ### Summary
 
-Adds ability to place a mark on the system on Galamap
+Добавляет возможность ставить метку на систему галакарты
 
 ---
 
 ## 📖 Description
 
-Adds ability to place a mark on the system on Galamap
+Добавляет возможность ставить метку на систему галакарты
 
 ---
 
@@ -53,12 +53,12 @@ acquire:
 | Data/Image/rightButton_A.gi | 919c39e578579c2e52b4333009d475facfc8bc48700b47d1923dad4809c7067c |
 | Data/Image/rightButton_D.gi | 89a94476d18b8b42f2cb3eb0de4802bbecf0de06b99df0656d54337ea57c4e78 |
 | Data/Image/rightButton_N.gi | bc2f7aa70773ff3fb2aee5d99a9655892a312b66d2743122c9b23ff7866cd56f |
-| ModuleInfo.txt              | 8b2c11917f79981bac0b53f0d193b430006709a147ef2b5ac47e9544035365c7 |
+| ModuleInfo.txt              | 47cd085e5897097cf97c9dcbe1cfd397b418cb64397e16dcfae29164befb847f |
 
-> Final archive: [`AMod_MapMarker.zip`](https://github.com/space-rangers-mods-museum/AMod_MapMarker/releases/download/v1.0.0/AMod_MapMarker.zip) · SHA-256 `a0f0e503ab456221410c09e01967db9a6e592755e82b68b74b0af7199a962cf2`
+> Final archive: [`AMod_MapMarker.zip`](https://github.com/space-rangers-mods-museum/AMod_MapMarker/releases/download/v1.0.0/AMod_MapMarker.zip) · SHA-256 `1a159758d5fe01125fffa25e3e89d0e65d88dbdf44f8a711f2a76250fb37e90a`
 
 ---
 
 ## ⚖️ Copyright & Disclaimer
 
-**All Rights Reserved:** the authorship of this modification fully belongs to **Huk** (per `ModuleInfo.txt`). This publication is made solely for digital archaeology, preserving the history of the gaming community, and educational purposes (Fair Use), without any claim to the original copyright.
+**All Rights Reserved:** the authorship of this modification fully belongs to **Huk**. This publication is made solely for digital archaeology, preserving the history of the gaming community, and educational purposes (Fair Use), without any claim to the original copyright.

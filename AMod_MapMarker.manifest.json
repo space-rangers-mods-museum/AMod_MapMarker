@@ -3,16 +3,16 @@
   "source": [
     {
       "kind": "zip",
-      "archive": "AMod_MapMarker_source.zip",
-      "path": "C:\\Users\\ringill\\repo\\space_rangers\\tmp\\AMod_MapMarker_source.zip",
-      "size": 7870,
-      "sha256": "053f09a24e2425f11b59fa54d34774c4b343e481c70c817650015daa5e864e3a"
+      "archive": "Solyanka.zip",
+      "path": "C:\\Users\\ringill\\repo\\space_rangers\\tmp\\Solyanka.zip",
+      "size": 547866839,
+      "sha256": "42a78494c3a61b867b88c313e02d6f234caf85af847dc891d1d86b3450b18dd8"
     }
   ],
   "exhibit_archive": {
     "path": "AMod_MapMarker.zip",
-    "size": 7230,
-    "sha256": "a0f0e503ab456221410c09e01967db9a6e592755e82b68b74b0af7199a962cf2",
+    "size": 7133,
+    "sha256": "1a159758d5fe01125fffa25e3e89d0e65d88dbdf44f8a711f2a76250fb37e90a",
     "entries": 10
   },
   "files": [
@@ -63,8 +63,8 @@
     },
     {
       "path": "ModuleInfo.txt",
-      "size": 830,
-      "sha256": "8b2c11917f79981bac0b53f0d193b430006709a147ef2b5ac47e9544035365c7"
+      "size": 444,
+      "sha256": "47cd085e5897097cf97c9dcbe1cfd397b418cb64397e16dcfae29164befb847f"
     }
   ]
 }

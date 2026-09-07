@@ -3,7 +3,7 @@ exhibit: AMod_MapMarker
 # internal — input for extract_exhibit.py, NOT shown on the card
 source:
   - kind: zip
-    path: C:/Users/ringill/repo/space_rangers/tmp/AMod_MapMarker_source.zip
+    path: C:/Users/ringill/repo/space_rangers/tmp/Solyanka.zip
     target: Mods/AnotherMods/AMod_MapMarker
 
 # public — acquisition route, rendered in the card README.md
