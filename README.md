@@ -1,4 +1,4 @@
-# 🗄️ AMod_MapMarker
+# 🥣 AMod_MapMarker
 
 * **Name:** AMod_MapMarker
 * **Author:** Huk
