@@ -12,8 +12,9 @@
   ],
   "exhibit_archive": {
     "path": "AMod_MapMarker.zip",
-    "size": 7133,
-    "sha256": "1a159758d5fe01125fffa25e3e89d0e65d88dbdf44f8a711f2a76250fb37e90a",
+    "size": 7773,
+    "sha256": "6401adc2f92012dd1112e5709ce6d1bb85ed3799aa4bedd5ebf737fd44efb5a9",
+    "root": "Mods/AnotherMods/AMod_MapMarker",
     "entries": 10
   },
   "files": [

@@ -55,7 +55,7 @@ acquire:
 | Data/Image/rightButton_N.gi | bc2f7aa70773ff3fb2aee5d99a9655892a312b66d2743122c9b23ff7866cd56f |
 | ModuleInfo.txt              | 47cd085e5897097cf97c9dcbe1cfd397b418cb64397e16dcfae29164befb847f |
 
-> Final archive: [`AMod_MapMarker.zip`](https://github.com/space-rangers-mods-museum/AMod_MapMarker/releases/download/v1.0.0/AMod_MapMarker.zip) · SHA-256 `1a159758d5fe01125fffa25e3e89d0e65d88dbdf44f8a711f2a76250fb37e90a`
+> Final archive: [`AMod_MapMarker.zip`](https://github.com/space-rangers-mods-museum/AMod_MapMarker/releases/download/v1.0.0/AMod_MapMarker.zip) · SHA-256 `6401adc2f92012dd1112e5709ce6d1bb85ed3799aa4bedd5ebf737fd44efb5a9`
 
 ---
 
